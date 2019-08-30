@@ -1,0 +1,55 @@
+
+TESTS FOR Computer.java:
+Dell, Powerful, 2GB Memory, 1.5TB Solid State Drive, Price: $3.00 
+HP, Weak, 4GB Memory, 1.6TB Hard Drive, Price: $999.00 
+Apple, Mediocre, 8GB Memory, 800GB Solid State Drive, Price: $9999.00 
+Lenova, Powerful, 16GB Memory, 500GB Hard Drive, Price: $100.00 
+
+TESTS FOR Computer.java:
+Dell, Powerful, 2GB Memory, 1.5TB Solid State Drive, Price: $3.00 
+HP, Weak, 4GB Memory, 1.6TB Hard Drive, Price: $999.00 
+Apple, Mediocre, 8GB Memory, 800GB Solid State Drive, Price: $9999.00 
+Lenova, Powerful, 16GB Memory, 500GB Hard Drive, Price: $100.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-01-11, Huntington, NY, America
+Date and place of birth: 2000-01-11, NYC, NY, America
+Date and place of birth: 1999-02-14, Los Angeles, CA, America
+Date and place of birth: 1998-02-14, Toranto, Canada
+Date and place of birth: 3000-04-06, Paris, France
+true
+false
+true
+false
+false
+true
+false
+true
+
+TESTS FOR StreetUSAddress.java:
+123 Fake Street
+Apt. 1
+Binghamton, NY 13902
+456 Real Avenue
+Binghamton, NY 13902
+
+TESTS FOR Person.java:
+hi
+
+TESTS FOR Person.java:
+
+
+TESTS FOR Person.java:
+
+
+TESTS FOR Person.java:
+false
+false
+
+TESTS FOR Person.java:
+false
+false
+
+TESTS FOR Person.java:
+true
+false
